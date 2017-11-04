@@ -1,2 +1,3 @@
 # netseccheck-winservice
-Windows Service portion of project.  Check out netseccheck for more info.
+
+Windows Service portion of project.  Check out https://github.com/geo101/netseccheck for more info.
